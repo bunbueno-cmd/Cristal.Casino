@@ -1,2 +1,2 @@
-# Cristal.Casino
-Cristal.Casino
+# Crystal.Casino
+Crystal.Casino
